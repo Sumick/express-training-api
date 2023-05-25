@@ -1,4 +1,4 @@
-## Express Training
+## Express Training2
 Welcome to the Express Training app repository. This app is a training project to learn how to use Express.js framework.
 
 ---
